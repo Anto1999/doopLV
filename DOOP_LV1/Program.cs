@@ -14,6 +14,16 @@ namespace DOOP_LV1
             Console.WriteLine(notes.ToString());
             Console.WriteLine(notes1.ToString());
             Console.WriteLine(notes2.ToString());
+            Console.WriteLine(notes.Author);
+            Console.WriteLine(notes.Pertinence);
+            Console.WriteLine(notes.Text);
+            Console.WriteLine(notes1.Author);
+            Console.WriteLine(notes1.Pertinence);
+            Console.WriteLine(notes1.Text);
+            Console.WriteLine(notes2.Author);
+            Console.WriteLine(notes2.Pertinence);
+            Console.WriteLine(notes2.Text);
+
 
 
         }

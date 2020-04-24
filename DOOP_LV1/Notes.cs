@@ -15,7 +15,7 @@ namespace DOOP_LV1
         public string Author
         {
             get { return this.author; }
-            set { this.author = value; }
+            
         }
         public int Pertinence
         {
