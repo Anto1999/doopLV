@@ -23,6 +23,8 @@ namespace DOOP_LV1
             Console.WriteLine(notes2.Author);
             Console.WriteLine(notes2.Pertinence);
             Console.WriteLine(notes2.Text);
+            Notes time = new TimeNotes();
+            Console.WriteLine(time.ToString());
 
 
 
